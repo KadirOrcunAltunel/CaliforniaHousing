@@ -13,7 +13,8 @@ The given dataset provides information on various attributes related to housing 
 - median_house_value: The median value of houses in a specific neighborhood.
 - ocean_proximity: The proximity of a housing unit to the ocean.
 
-I aim to find a model to predict Median House Value using Random Forest Regression. 
+I aimed to find a model to predict Median House Value using Random Forest Regression.
+Overall I reached the accuracy of 82%. With proper hyperparameter tuning, I'm certain that higher accuracy can be achieved.
 
 I added the graph I created in [CaliforniaHousing.py](https://github.com/KadirOrcunAltunel/CaliforniaHousing/blob/main/CaliforniaHousing.py) below:
 
