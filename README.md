@@ -14,3 +14,5 @@ The given dataset provides information on various attributes related to housing 
 - ocean_proximity: The proximity of a housing unit to the ocean.
 
 I aim to find a model to predict Median House Value using Random Forest Regression.
+
+![CaliforniaHousing](graph.png)
