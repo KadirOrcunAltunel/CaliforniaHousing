@@ -2,7 +2,7 @@
 The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data.
 The given dataset provides information on various attributes related to housing in different neighborhoods of California. Here is a partial description of the dataset:
 
-Dataset can be accessed at: [Kaggle](https://www.kaggle.com/datasets/darshanprabhu09/california-housing-dataset)
+Dataset can be accessed at [Kaggle](https://www.kaggle.com/datasets/darshanprabhu09/california-housing-dataset)
 
 - longitude: The longitude coordinates of the housing location.
 - latitude: The latitude coordinates of the housing location.
