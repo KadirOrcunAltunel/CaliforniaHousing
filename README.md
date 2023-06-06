@@ -15,6 +15,6 @@ The given dataset provides information on various attributes related to housing 
 
 I aim to find a model to predict Median House Value using Random Forest Regression. 
 
-I added the graph I created in the CaliforniaHousing.py below:
+I added the graph I created in [CaliforniaHousing.py](https://github.com/KadirOrcunAltunel/CaliforniaHousing/blob/main/CaliforniaHousing.py) below:
 
 ![CaliforniaHousing](graph.png)
